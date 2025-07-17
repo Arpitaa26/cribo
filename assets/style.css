@@ -193,7 +193,9 @@ h4.user-count {
   margin-top: -100px;
   z-index: 2;
 }
-
+.container-inside.for-search {
+    max-width: 800px !important;
+}
 .search-box {
   padding: 40px 30px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
@@ -377,7 +379,7 @@ p.right-sub-text {
 .cta-image {
   position: absolute;
   bottom: 10px;
-  max-height: 150px;
+  max-height: 190px;
   object-fit: contain;
 }
 
@@ -415,7 +417,12 @@ a.btn.custom-btn {
   background-repeat: no-repeat;
   color: white; */
 }
-
+button.btn.btn-outline-dark:hover {
+    color: #87db00 !important;
+}
+button.btn.btn-outline-dark:active {
+    color: #ffffff !important;
+}
 .banner-section > div:first-child {
   font-family: "Open Sans", sans-serif;
   position: relative;
