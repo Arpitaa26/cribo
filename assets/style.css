@@ -21,10 +21,13 @@ body {
 } */
 
 .heading1 {
-  font-family: "Red Hat Display", sans-serif;
-  font-size: clamp(3rem, 1.2813rem + 5.5vw, 4.375rem);
-  font-weight: 900;
-  color: #262626;
+      font-family: "Red Hat Display", sans-serif;
+    font-size: clamp(3rem, 1.2813rem + 5.5vw, 4.375rem);
+    font-weight: 900;
+    color: #262626;
+    text-align: center;
+    padding: 55px;
+    font-size: 60px;
 }
 
 .heading2 {
@@ -208,11 +211,11 @@ ul.navbar-nav > li {
 
 /* banner content  */
 .main_hero {
-  background-image: url("./img/bg3.png");
+  background-image: url("./img/Header1.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 700px;
+     height: 590px;
 }
 
 .banner-content {
@@ -1167,6 +1170,13 @@ input.form-control.subscribe-form:active {
 .owl-theme .owl-dots button.owl-dot.active>span {
     background: #23b26d !important;
 }
+.container-inside.for-search-london {
+    width: 100% !important;
+    max-width: 100% !important;
+}
+.search-option {
+    justify-content: space-between;
+}
 /* ===========================
    Responsive Media Queries
    =========================== */
@@ -1369,7 +1379,7 @@ input.form-control.subscribe-form:active {
 
 @media (min-width: 768px) {
   .main_hero {
-    height: 700px;
+        height: 590px;
   }
 
   /* .banner-content h1 {
