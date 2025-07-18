@@ -2,10 +2,18 @@
 @media (max-width: 1399.98px) {
 }
 
+@media screen and (min-width: 1200px) {
+  .mobile-menu-btn {
+    display: none;
+  }
+}
 /* // Large devices (desktops, less than 1200px) */
 @media (max-width: 1199.98px) {
   .container-inside {
     max-width: 960px;
+  }
+  .nav-new {
+    display: none;
   }
 }
 
@@ -21,11 +29,20 @@
   .container-inside {
     max-width: 540px;
   }
+  .cta-card {
+    padding-bottom: 0px;
+  }
 }
 
 /* // Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
   .container-inside {
     max-width: 100%;
+  }
+  .list-unstyled.fotter-list-link {
+    align-items: center;
+  }
+  footer .social-icons {
+    justify-content: center;
   }
 }
