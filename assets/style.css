@@ -28,6 +28,7 @@ body {
     text-align: center;
     padding: 80px;
     font-size: 60px;
+    padding-top: 120px;
 }
 
 .heading2 {
@@ -211,7 +212,7 @@ ul.navbar-nav > li {
 
 /* banner content  */
 .main_hero {
-  background-image: url("./img/Header1.png");
+  background-image: url("./img/Header-2.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
