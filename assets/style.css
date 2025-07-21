@@ -318,12 +318,13 @@ h4.user-count {
   padding-right: 0px !important;
 }
 .search-box .title {
-  color: #262626;
-  font-size: 42px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 1;
-  letter-spacing: -1.415px;
+     color: #262626;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: -1.415px;
+    font-family: poppins;
 }
 
 .search-box .subtitle {
