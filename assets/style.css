@@ -19,7 +19,7 @@ body {
 /* p {
   margin: 0px;
 } */
-
+/* 
 .heading1 {
       font-family: "Red Hat Display", sans-serif;
     font-size: clamp(3rem, 1.2813rem + 5.5vw, 4.375rem);
@@ -29,7 +29,7 @@ font-weight: 900;
     padding: 30px;
     font-size: 45px;
     padding-top: 20px;
-}
+} */
 a.logo {
        width: 135px;
 }
@@ -1397,14 +1397,14 @@ input.form-control.subscribe-form:active {
   .main_hero {
         height: 480px;
   }
-
+/* 
  .heading1 {
 
     padding: 30px;
     font-size: 45px;
-}
+} */
 .search-box {
-  margin-top: 10px;
+  margin-top: 0px;
 }
   .cribo-highlight {
     font-size: 65px;
@@ -1426,7 +1426,7 @@ input.form-control.subscribe-form:active {
     padding: 10px;}
 
   .search-panel {
-    margin-top: -185px;
+    margin-top: -210px;
   }
 
   /* .search-box {
