@@ -27,7 +27,7 @@ font-weight: 900;
     color: #ffffff;
     text-align: center;
     padding: 12px;
-    font-size: 60px;
+    font-size: 45px;
     padding-top: 20px;
 }
 a.logo {
@@ -307,7 +307,7 @@ h4.user-count {
 }
 
 .search-box {
-      padding: 30px 30px;
+      padding: 15px 15px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
   margin: 0 auto;
   text-align: center;
@@ -1401,10 +1401,10 @@ input.form-control.subscribe-form:active {
  .heading1 {
 
     padding: 12px;
-    font-size: 50px;
+    font-size: 45px;
 }
 .search-box {
-    margin-top: 18px;
+  margin-top: 10px;
 }
   .cribo-highlight {
     font-size: 65px;
@@ -1451,7 +1451,7 @@ input.form-control.subscribe-form:active {
     /* margin-bottom: 8px; */
 }
  .right-img {
-    right: -40px !important;
+    right: -20px !important;
     bottom: -17px;
 }
 .left-img {
