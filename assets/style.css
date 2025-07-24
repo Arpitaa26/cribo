@@ -26,12 +26,12 @@ body {
 font-weight: 900;
     color: #ffffff;
     text-align: center;
-    padding: 12px;
+    padding: 30px;
     font-size: 45px;
     padding-top: 20px;
 }
 a.logo {
-       width: 150px;
+       width: 135px;
 }
 .heading2 {
   font-family: "Red Hat Display", sans-serif;
@@ -1400,7 +1400,7 @@ input.form-control.subscribe-form:active {
 
  .heading1 {
 
-    padding: 12px;
+    padding: 30px;
     font-size: 45px;
 }
 .search-box {
