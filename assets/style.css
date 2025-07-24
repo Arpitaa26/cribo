@@ -307,7 +307,7 @@ h4.user-count {
 }
 
 .search-box {
-      padding: 15px 15px;
+      padding: 10px 10px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
   margin: 0 auto;
   text-align: center;
@@ -1426,7 +1426,7 @@ input.form-control.subscribe-form:active {
     padding: 10px;}
 
   .search-panel {
-    margin-top: -210px;
+    margin-top: -220px;
   }
 
   /* .search-box {
