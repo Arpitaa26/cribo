@@ -31,7 +31,7 @@ font-weight: 900;
     padding-top: 20px;
 }
 a.logo {
-    width: 180px;
+       width: 150px;
 }
 .heading2 {
   font-family: "Red Hat Display", sans-serif;
@@ -149,7 +149,7 @@ ul.navbar-nav > li {
 .nav-new li a {
   color: #fff;
   font-family: "Red Hat Display", sans-serif;
-  font-size: 16px;
+      font-size: 18px;
   font-style: normal;
   text-transform: capitalize;
   font-weight: 600;
