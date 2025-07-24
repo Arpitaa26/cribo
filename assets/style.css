@@ -940,7 +940,10 @@ span.time {
   font-family: "Open Sans", sans-serif;
   padding-top: 40px;
 }
-
+    .choose-card>h5 
+ {
+        min-height: 50px !important;
+    }
 .choose-card {
   padding: 25px;
   text-align: center;
@@ -1416,9 +1419,12 @@ input.form-control.subscribe-form:active {
     line-height: 1;
     letter-spacing: 0.099px;
 }
-.choose-card>h5 {
+/* .choose-card>h5 {
     min-height: 65px;
-}
+} */
+.choose-card {
+    padding: 10px;}
+
   .search-panel {
     margin-top: -185px;
   }
