@@ -142,7 +142,7 @@ border-radius: 30px;
 }
 .nav-new li {
   display: inline-block;
-  margin-left: 3px;
+      margin-left: 7px;
 }
 
 .nav-new li a {
@@ -155,7 +155,7 @@ border-radius: 30px;
   line-height: 1;
   text-decoration: none;
   display: inline-block;
-  margin-left: 15px;
+      margin-left: 25px;
 }
 .nav-new li a::after {
   content: "";
