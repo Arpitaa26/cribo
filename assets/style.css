@@ -110,17 +110,16 @@ ul.navbar-nav > li {
   */
 
 .nav-new > li > .cta {
-  border-radius: 30px;
-  background: #87db00 !important;
-  color: #fff !important;
-  font-family: "Open Sans" !important;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 1;
-  /* letter-spacing: 2.55px; */
-  text-transform: uppercase;
-  padding: 10px 20px;
+border-radius: 30px;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1;
+    text-transform: uppercase;
+    padding: 10px 25px;
+    background: rgb(135, 219, 0) !important;
+    color: rgb(255, 255, 255) !important;
+    font-family: "Open Sans" !important;
 }
 
 .mobile-menu > ul > li > .cta {
