@@ -143,7 +143,7 @@ ul.navbar-nav > li {
 }
 .nav-new li {
   display: inline-block;
-  margin-left: 20px;
+  margin-left: 5px;
 }
 
 .nav-new li a {
@@ -156,6 +156,7 @@ ul.navbar-nav > li {
   line-height: 1;
   text-decoration: none;
   display: inline-block;
+  margin-left: 25px;
 }
 .nav-new li a::after {
   content: "";
@@ -1198,6 +1199,10 @@ input.form-control.subscribe-form:active {
    =========================== */
 
 @media (max-width: 575.98px) {
+  p.footer-subtext.logo-txt {
+    padding-top: 25px;
+    text-align: center;
+}
   .main_hero {
     height: 650px;
     background-size: cover;
@@ -1332,6 +1337,10 @@ input.form-control.subscribe-form:active {
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
+  p.footer-subtext.logo-txt {
+    padding-top: 25px;
+    text-align: center;
+}
   .main_hero {
     height: 700px;
   }
@@ -1397,6 +1406,10 @@ input.form-control.subscribe-form:active {
   .main_hero {
         height: 480px;
   }
+  /* p.footer-subtext.logo-txt {
+    padding-top: 25px;
+    text-align: center;
+} */
 /* 
  .heading1 {
 
