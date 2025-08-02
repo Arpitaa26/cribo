@@ -760,7 +760,7 @@ p.right-sub-text {
   border-radius: 20px;
   position: relative;
   overflow: hidden;
-  padding-bottom: 70px;
+  padding-bottom: 35px;
   /* space for image */
 }
 
@@ -1803,6 +1803,7 @@ input.form-control.subscribe-form:active {
   .left-img {
     left: -34px !important;
     bottom: 0px;
+    height: 200px !important;
   }
 
   .cta-image {
