@@ -392,7 +392,9 @@ button.signup {
     flex-direction: column;
     align-items: flex-start;
   }
-
+.text-end.for-gap {
+    margin-top: 32px;
+}
   .logo-nav {
     width: 100%;
   }
@@ -932,7 +934,7 @@ span.search-icon-wrapper {
   font-size: 12px;
   font-style: normal;
   font-weight: 400;
-  line-height: 1;
+     line-height: 17px;
 }
 
 .property-card {
@@ -942,8 +944,11 @@ span.search-icon-wrapper {
   border: 1px solid #dfdfdf;
   background: #fff;
   box-shadow: 0px 4px 26px 0px rgba(66, 71, 76, 0.08);
+  height: 400px;
 }
-
+.property-img > img {
+    height: 190px !important;
+}
 .property-card:hover {
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
 }
@@ -1213,7 +1218,12 @@ span.time {
 .explore-btn:hover {
   background: #0f172a;
 }
-
+.text-end.for-gap {
+    margin-top: 24px;
+}
+/* .item{
+  height: 400px !important;
+} */
 /* why coose us css */
 
 .why-choose-section {
@@ -1815,7 +1825,7 @@ input.form-control.subscribe-form:active {
   }
 
   .cta-image {
-    position: static;
+    /* position: static; */
     display: block;
     margin: 20px auto 0px auto;
     max-height: 125px;

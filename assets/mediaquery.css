@@ -33,7 +33,7 @@
     max-width: 540px;
   }
   .cta-card {
-    padding-bottom: 0px;
+   padding-bottom: 135px;
   }
    .right-img {
     right: -40px !important;
@@ -43,12 +43,11 @@
     left: -34px !important;
     bottom: 0px;
 }
-.cta-image {
+    .cta-image {
         width: 194px;
-        height: 184px;
-        left: 17px !important;
-
-}
+        height: 162px;
+        left: -30px !important;
+    }
 }
 
 /* // Extra small devices (portrait phones, less than 576px) */
