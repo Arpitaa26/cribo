@@ -579,7 +579,7 @@ h4.user-count {
   margin: 0 auto;
   text-align: center;
   border-radius: 20px;
-  border: 4px solid #2d231a;
+      border: 4px solid rgba(188, 253, 86, 1);
   background: rgb(255 255 255 / 94%)
 }
 
@@ -863,7 +863,7 @@ a.btn.custom-btn {
 
 .search-options-box {
   /* position: absolute; */
-  gap: 100px;
+  gap: 35px;
   /* bottom: -85px; */
   left: 50%;
   /* transform: translateX(-50%); */
@@ -1025,7 +1025,7 @@ span.search-icon-wrapper {
 }
 
 .property-price {
-  color: #87db00;
+  color: #ff182e;;
   font-family: Poppins;
   font-size: 20px;
   font-style: normal;
@@ -1591,7 +1591,7 @@ input.form-control.subscribe-form:active {
   }
 
   .options .option img {
-    height: 24px;
+    height: 35px;
   }
 
   h1.main-line>br {
