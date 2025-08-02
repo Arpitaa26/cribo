@@ -1710,6 +1710,10 @@ input.form-control.subscribe-form:active {
   .options img {
     height: 26px;
   }
+  .search-options-box {
+
+    gap: 64px;
+  }
 }
 
 @media (min-width: 768px) {
