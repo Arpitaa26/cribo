@@ -863,7 +863,7 @@ a.btn.custom-btn {
 
 .search-options-box {
   /* position: absolute; */
-  gap: 35px;
+  gap: 85px;
   /* bottom: -85px; */
   left: 50%;
   /* transform: translateX(-50%); */
@@ -1798,6 +1798,10 @@ input.form-control.subscribe-form:active {
   .cta-image {
     width: 218px;
     height: 150px;
+  }
+    .search-options-box {
+
+    gap: 80px;
   }
 }
 
